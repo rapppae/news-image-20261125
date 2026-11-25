@@ -1,8 +1,8 @@
 # News Image 25 November 2026
 
-[![make.fun](https://make.fun/badge/news-image-20261125)](https://make.fun/bounty/news-image-20261125)
-[![make.fun](https://make.fun/badge/news-image-20261125/repo/news-image-20261125)](https://make.fun/bounty/news-image-20261125)
-[![make.fun](https://make.fun/badge/news-image-20261125/entry)](https://make.fun/bounty/news-image-20261125)
+[![Bounty](https://make.fun/badge/news-image-20261125.svg)](https://make.fun/bounty/news-image-20261125)
+[![Rank](https://make.fun/badge/news-image-20261125/rapppae/news-image-20261125/rank.svg)](https://make.fun/bounty/news-image-20261125/leaderboard)
+[![Reward](https://make.fun/badge/news-image-20261125/rapppae/news-image-20261125/reward.svg)](https://make.fun/bounty/news-image-20261125/leaderboard)
 
 [News Image 25 November 2026 — make.fun bounty](https://make.fun/bounty/news-image-20261125)
 
